@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(103, 104, 179, 0.966);
+}
+img {
+    width: 350px;
+    height: 350px;
+    object-fit: cover; /* Memastikan gambar tetap pada rasio dan tidak terdistorsi */
+  }
+  
+img {
+    margin-top: 70;/* Memastikan gambar tetap pada rasio dan tidak terdistorsi */
+  }
+  
+  img{
+    margin-bottom: 70;
+  }
+
+  

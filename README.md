@@ -20,12 +20,12 @@
 
 ### Langkah 1: Clone Repository 
 ```
-git clone https://github.com/projekgit/web-jus.git
+git clone https://github.com/projekgit/webjuss.git
 ```
 ### Langkah 2: Pindah ke Direktori Proyek 
 
 ```
-cd web-jus
+cd web-juss
 ```
 - Setelah Itu Masuk Ke dalam Visual Studio Code
 
